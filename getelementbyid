@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const txtFinalCashInWords = document.getElementById('txtFinalCashInWords');
     const btnReset = document.getElementById('btnReset');
   
-    const cashInputs = [et200, et100, et50, et20, et10, et5, et2, et1];
+    const cashInputs = [et200, et100, et50, et20, et10, et5, tet2, et1];
     const cashTexts = [txt200, txt100, tt50, txt20, txt10, txt5, txt2, txt1];
   
     cashInputs.forEach((input, index) => {
