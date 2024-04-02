@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const et5 = document.getElementById('et5');
     const et2 = document.getElementById('et2');
     const et1 = document.getElementById('et1');
-    // Get references to other input fields.
+    // Get references to other input fields
       
     const txt200 = document.getElementById('txt200');
     const txt100 = document.getElementById('txt100');
