@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const et200 = document.getElementById('et200');
     const et100 = document.getElementById('et100');
-    const et50 = document.getElementById('etr50');
+    const et50 = document.getElementById('et50');
     const et20 = document.getElementById('et20');
     const et10 = document.getElementById('et10');
     const et5 = document.getElementById('et5');
