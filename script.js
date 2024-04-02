@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const et200 = document.getElementById('et200');
     const et100 = document.getElementById('et100');
     const et50 = document.getElementById('et50');
-    const et20 = document.getElementById('et20')
+    const et20 = document.getElementById('et20');
     const et10 = document.getElementById('et10');
     const et5 = document.getElementById('et5');
     const et2 = document.getElementById('et2');
@@ -12,10 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const txt200 = document.getElementById('txt200');
     const txt100 = document.getElementById('txt100');
     const txt50 = document.getElementById('txt50');
-    const txt20 = document.getElementById('txt20')
+    const txt20 = document.getElementById('txt20');
     const txt10 = document.getElementById('txt10');
     const txt5 = document.getElementById('txt5');
-    const txt2 = document.getElementById('txt2')
+    const txt2 = document.getElementById('txt2');
     const txt1 = document.getElementById('txt1');
     // Get references to other result elements
   
@@ -23,8 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const txtFinalCashInWords = document.getElementById('txtFinalCashInWords');
     const btnReset = document.getElementById('btnReset');
   
-    const cashInputs = [et200, et100, et50, et20, et10, et5, tet2, et1];
-    const cashTexts = [txt200, txt100, tt50, txt20, txt10, txt5, txt2, txt1];
+    const cashInputs = [et200, et100, et50, et20, et10, et5, et2, et1];
+    const cashTexts = [txt200, txt100, txt50, txt20, txt10, txt5, txt2, txt1];
   
     cashInputs.forEach((input, index) => {
       input.addEventListener('input', () => {
