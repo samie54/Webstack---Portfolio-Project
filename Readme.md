@@ -240,7 +240,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const txt10 = document.getElementById('txt10')
     const txt5 = document.getElementById('txt5')
     const txt2 = document.getElementById('txt2');
-    const txt1 = document.getElementById('txt1');
+    const txt1 = document.getElementById('txt1')
     // Get references to other result elements
   
     const txtFinalCash = document.getElementById('txtFinalCash');
